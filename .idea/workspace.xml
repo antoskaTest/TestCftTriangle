@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testCftTriangle" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RmbkhsD5eAunOOoJbYpDm6ws9y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,6 +17,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tosha\IdeaProjects\TestCftTriangle\src\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,7 +37,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.cfttest.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.cfttest.MaxAreaTriangle" />
       <module name="TestCftTriangle" />
       <option name="PROGRAM_PARAMETERS" value="in.txt out.txt" />
       <RunnerSettings RunnerId="Run" />
@@ -67,7 +72,7 @@
       <workItem from="1570994347931" duration="943000" />
       <workItem from="1571068726527" duration="1995000" />
       <workItem from="1571153046646" duration="3687000" />
-      <workItem from="1571326290643" duration="1238000" />
+      <workItem from="1571326290643" duration="8933000" />
     </task>
     <servers />
   </component>
